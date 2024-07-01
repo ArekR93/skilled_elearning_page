@@ -1,0 +1,21 @@
+Struktura ogólna:
+
+1.Header
+    Header heading:
+        logo i przycisk
+    header body:
+        header-info:
+            h1
+            description
+            button
+        header-avatar
+2. Main:
+    Section - services:
+        card-box:
+            card:
+                img
+                h2
+                description
+                a href
+3. Footer:
+    Logo i button
