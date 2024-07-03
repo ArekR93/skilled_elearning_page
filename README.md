@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/skilled-elearning-landing-page-html-scss-O7YftGdLvw
+- Live Site URL: https://arekr93.github.io/skilled_elearning_page/
 
 ## My process
 
