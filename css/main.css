@@ -260,7 +260,22 @@ header .header-body .header-avatar .tablet-img, header .header-body .header-avat
     width: 50%;
     display: flex;
     position: absolute;
-    right: -350px;
-    top: -250px;
+    right: -170px;
+    top: -100px;
+  }
+  .services {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .services .card-box {
+    max-width: 1000px;
+  }
+  .footer .footer-btn {
+    transition: background-color 0.5s;
+    cursor: pointer;
+  }
+  .footer .footer-btn:hover {
+    opacity: 0.5;
   }
 }/*# sourceMappingURL=main.css.map */
